@@ -20,9 +20,17 @@ If you're a happy user of `github.com/alexpreli`, I would really appreciate your
 
 You can support me using the Ko-fi and PayPal links.
 
-[![Support on Ko-fi](https://img.shields.io/badge/Support_on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/preli)
+<div>
+  <a href="https://ko-fi.com/preli">
+    <img src="https://img.shields.io/badge/Support_on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" width="200">
+  </a>
+</div>
 
-[![Donate on PayPal](https://img.shields.io/badge/Donate_on-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/preli7)
+<div>
+  <a href="https://paypal.me/preli7">
+    <img src="https://img.shields.io/badge/Donate_on-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" width="200">
+  </a>
+</div>
 
 ## Patreon Page
 
